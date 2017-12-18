@@ -1,7 +1,7 @@
 # Google-Map-Tutorial-iOS
 
 This is the source code for my tutorial on Youtube:<br>
-Google map, custom markers, custom marker info window and place search tutorial for iOS in Swift 4 & Xcode 9:   https://youtu.be/tobeUpdated  <br>
+Google map, custom markers, custom marker info window and place search tutorial for iOS in Swift 4 & Xcode 9:   https://youtu.be/DefMVYSRbxo  <br>
 Note: Run 'pod install' in the terminal from the root directory of the project before testing the app.
 
 <p align="center">
